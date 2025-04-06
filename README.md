@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iamvartikasingh/Leetcode/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
