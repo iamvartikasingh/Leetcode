@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
+| [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
@@ -43,5 +44,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
