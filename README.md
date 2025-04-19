@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
@@ -53,4 +54,8 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
