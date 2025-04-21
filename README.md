@@ -11,6 +11,7 @@
 | ------- |
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
@@ -81,4 +82,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
