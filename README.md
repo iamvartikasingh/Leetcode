@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
@@ -72,8 +75,10 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
