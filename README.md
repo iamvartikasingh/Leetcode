@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
@@ -115,9 +116,14 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
