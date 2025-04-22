@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,4 +92,12 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
