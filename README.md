@@ -100,4 +100,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/iamvartikasingh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
