@@ -112,4 +112,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/iamvartikasingh/Leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
