@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -121,9 +122,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
