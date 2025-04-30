@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
@@ -82,6 +83,7 @@
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/iamvartikasingh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
