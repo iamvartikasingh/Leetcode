@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/iamvartikasingh/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/iamvartikasingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/iamvartikasingh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/iamvartikasingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Tree
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/iamvartikasingh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0287-find-the-duplicate-number) |
