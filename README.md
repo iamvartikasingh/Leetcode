@@ -100,6 +100,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/iamvartikasingh/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/iamvartikasingh/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/iamvartikasingh/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Memoization
