@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamvartikasingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamvartikasingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iamvartikasingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/iamvartikasingh/Leetcode/tree/master/0075-sort-colors) |
