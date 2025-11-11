@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/iamvartikasingh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
@@ -82,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/iamvartikasingh/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/iamvartikasingh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
