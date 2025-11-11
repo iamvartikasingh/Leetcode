@@ -24,6 +24,7 @@
 | [0075-sort-colors](https://github.com/iamvartikasingh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/iamvartikasingh/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamvartikasingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/iamvartikasingh/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/iamvartikasingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/iamvartikasingh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamvartikasingh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/iamvartikasingh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/iamvartikasingh/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamvartikasingh/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
