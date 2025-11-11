@@ -7,6 +7,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamvartikasingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/iamvartikasingh/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0125-valid-palindrome](https://github.com/iamvartikasingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamvartikasingh/Leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -101,6 +102,7 @@
 | [0015-3sum](https://github.com/iamvartikasingh/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/iamvartikasingh/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/iamvartikasingh/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/iamvartikasingh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iamvartikasingh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/iamvartikasingh/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0287-find-the-duplicate-number) |
