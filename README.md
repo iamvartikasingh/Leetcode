@@ -7,6 +7,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamvartikasingh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/iamvartikasingh/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/iamvartikasingh/Leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/iamvartikasingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/iamvartikasingh/Leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -89,6 +91,7 @@
 | [0169-majority-element](https://github.com/iamvartikasingh/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/iamvartikasingh/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/iamvartikasingh/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/iamvartikasingh/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/iamvartikasingh/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
